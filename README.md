@@ -2,7 +2,8 @@
 
 An interactive **Bike Sales Analytics Dashboard** built using Microsoft Excel to analyse customer demographics, income, commute distance and bike purchasing behaviour.
 
-![Bike Sales Dashboard](images/dashboard.png)
+<img width="1106" height="615" alt="BikeSalesDashboard" src="https://github.com/user-attachments/assets/989d8fa0-1c78-42da-839e-f93b7f21169e" />
+
 
 ## Project Overview
 
